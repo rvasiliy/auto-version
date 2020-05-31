@@ -1,6 +1,6 @@
 {
   "name": "auto-version",
-  "version": "2.1.30",
+  "version": "2.1.31",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,6 @@
   "husky": {
     "hooks": {
       "post-commit": "HUSKY_SKIP_HOOKS=1 npm version patch"
-
     }
   }
 }

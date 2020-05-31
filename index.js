@@ -2,4 +2,4 @@ const message = 'Hello world';
 
 console.log(message);
 
-// Yes
+// Yes 2

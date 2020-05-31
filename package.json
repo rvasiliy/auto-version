@@ -14,7 +14,7 @@
   },
   "husky": {
     "hooks": {
-      "post-commit": "HUSKY_SKIP_HOOKS=1 npm version patch"
+
     }
   }
 }

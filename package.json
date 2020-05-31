@@ -1,6 +1,6 @@
 {
   "name": "auto-version",
-  "version": "2.1.37",
+  "version": "2.1.38",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "HUSKY_SKIP_HOOKS=1 npm version --no-commit-hooks --no-git-tag-version patch && git add package.json"
+      "pre-commit": "HUSKY_SKIP_HOOKS=1 npm version --no-commit-hooks --no-git-tag-version patch && git add --all"
     }
   }
 }

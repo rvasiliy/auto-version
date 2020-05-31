@@ -1,2 +1,3 @@
-// Hello
-// Hello 2
+const message = 'Hello world';
+
+console.log(message);

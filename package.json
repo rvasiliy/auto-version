@@ -1,6 +1,6 @@
 {
   "name": "auto-version",
-  "version": "2.1.32",
+  "version": "2.1.33",
   "description": "",
   "main": "index.js",
   "scripts": {
